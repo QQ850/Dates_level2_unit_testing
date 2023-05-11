@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample-tests\\sample-tests.csproj": {}
+    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample-tests\\sample-tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample-tests\\sample-tests.csproj": {
+    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample-tests\\sample-tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample-tests\\sample-tests.csproj",
+        "projectUniqueName": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample-tests\\sample-tests.csproj",
         "projectName": "sample-tests",
-        "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample-tests\\sample-tests.csproj",
+        "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample-tests\\sample-tests.csproj",
         "packagesPath": "C:\\Users\\Qiqi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample-tests\\obj\\",
+        "outputPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample-tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qiqi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\sample.csproj": {
-                "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\sample.csproj"
+              "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\sample.csproj": {
+                "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\sample.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\sample.csproj": {
+    "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\sample.csproj",
+        "projectUniqueName": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\sample.csproj",
         "projectName": "sample",
-        "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\sample.csproj",
+        "projectPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\sample.csproj",
         "packagesPath": "C:\\Users\\Qiqi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\dates\\sample\\obj\\",
+        "outputPath": "C:\\Users\\Qiqi\\OneDrive\\CSS 390\\Leve2_dates\\Dates_level2_unit_testing\\sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qiqi\\AppData\\Roaming\\NuGet\\NuGet.Config"
