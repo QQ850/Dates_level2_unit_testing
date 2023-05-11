@@ -29,4 +29,13 @@ public class ConvertToGregorian_Tests
         string words = Converter.ConvertToGregorian(year);
         Assert.Equal("Friday, February 12, 2021",words,true);
     }
+
+    [Fact]
+    //TODO: Initial "red" test to code logic
+    public void Three()
+    {
+        int year = 1999;
+        string words = Converter.ConvertToGregorian(year);
+        Assert.Equal("Tuesday, February 16, 1999",words,true);
+    }
 }
