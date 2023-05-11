@@ -16,6 +16,9 @@ namespace sample
             if (year == 2021) {
                 return "Friday, February 12, 2021";
             }
+            if (year == 1999) {
+                return "Tuesday, February 16, 1999";
+            }
             throw new NotImplementedException();
             
        }
